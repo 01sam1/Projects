@@ -42,7 +42,8 @@ requests(url, headers, seat_no)
 Takes a seat number and optionally accepts custom url and headers.
 Fetches and returns the formatted result data using all the helper functions listed above.
 
-main()
+
+main() function
 A flexible entry point for user interaction and execution. <br>
 ---
 ## 🚀 Potential Improvements
@@ -59,5 +60,5 @@ A flexible entry point for user interaction and execution. <br>
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/student-result-scraper.git
+   git clone git@github.com:01sam1/Projects.git
    cd student-result-scraper
